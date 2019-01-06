@@ -1,0 +1,55 @@
+body{
+		background-color:lightblue;
+    margin: 0;
+    
+	
+	
+}
+ul{
+	list-style-type:none;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	background-color:tomato;
+	
+	
+}
+li{
+	float:left;
+	font-size: 200%;
+	
+}
+
+li a{
+	display:block;
+	text-align:center;
+	padding: 10px;
+	color:white;
+	font-family:arial;
+	
+	
+}
+li a:hover{
+	background-color:black;
+	color:white;
+	
+	
+	
+}
+.left{
+	float:left;
+	
+	
+	
+}
+.right{
+	float:left;
+	
+	
+}
+.main{
+	float:left;
+	
+	
+	
+}
